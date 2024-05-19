@@ -25,7 +25,7 @@ jobs:
         run: npm install -g @angular/cli
 
       - name: Build Angular app
-        run: ng build --base-href https://programacion-es.dev/angular-ssr-i18n/dist/angular-ssr-i18n/browser/
+        run: ng build 
 #//*****************************Nginx Server********************************//
 
       - name: Remove Files on Nginx Server

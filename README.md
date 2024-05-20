@@ -1,4 +1,8 @@
-# AngularSsrI18n
+# Angular Ssr I18n
+
+Video tutorial for develop and deploy this project in a server with Nginx and Github Actions:
+
+[![Video tutorial](https://img.youtube.com/vi/PqzCxBp0auc/0.jpg)](https://www.youtube.com/watch?v=PqzCxBp0auc)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
